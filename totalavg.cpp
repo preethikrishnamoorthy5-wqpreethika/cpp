@@ -9,5 +9,5 @@ int main(){
     Percent=(float(total)/500) *100;
     cout<<"Total: "<<total<<endl;
     cout<<"Average: "<< avg<<endl;
-    cout<<"Percentage: "<< Percent;
+    cout<<"Percentage: "<< Percent<<"%";
 }
